@@ -1,0 +1,52 @@
+<
+div class="colmask">
+
+    <
+div class="header">
+
+	    head 
+    <
+/div>
+
+    <
+div class="colmid">
+
+    <
+div class="colleft">
+
+        <
+div class="col1">
+
+             Middle
+        <
+/div>
+
+        <
+div class="col2">
+
+             left
+        <
+/div>
+
+        <
+div class="col3">
+
+             Right
+        <
+/div>
+
+    <
+/div>
+
+    <
+/div>
+
+    <
+div class="footer">
+
+	    footer
+    <
+/div>
+
+<
+/div>

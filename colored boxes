@@ -1,0 +1,23 @@
+<div class="box 1"></div>
+
+.box 1{
+	width: 600px;
+	height: 400px;
+	background-color: green;
+}
+
+<div class="box 2"></div>
+
+.box 2{
+	width: 600px;
+	height: 400px;
+	background-color: blue;
+}
+
+<div class="box 3"></div>
+
+.box 3{
+	width: 600px;
+	height: 400px
+	background-color: red
+}
